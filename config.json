@@ -1,0 +1,14 @@
+{
+    "prefix": ["my ","My ","MY ","mY "],
+	
+    "responses": ["Your PP is Very Small",
+				"Your PP is Small",
+				"Your PP is Avrage",
+				"Your PP is Large",
+				"Your PP is Very Large",
+				"Your PP is Huge",
+				"You don't have a PP",
+				"Your PP is Tiny"
+				]
+				
+}
