@@ -2,6 +2,13 @@
 
 This is a discord bot writen in discord.py with the purpose of "rating" your PPs just for fun!
 
+<h2>Don't want to host?</h2>
+Just Invite it with this link <a href="https://discord.com/oauth2/authorize?client_id=%20809456179083477002&scope=bot&permissions=23552">here!</a><br>
+Uptime Checker is <a href="https://ppratebot.lucyclelland.repl.co/">here!</a>
+
+
+<h2>Commands</h2>
+
 <h2 text-align:center>
 How to host this Bot
 </h2>
