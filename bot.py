@@ -38,13 +38,13 @@ async def on_ready():
 @bot.command(aliases=['PP', 'Pp', 'pP'])
 async def pp(ctx):
     embed=discord.Embed(title=(choice(config['responses'])),color =discord.Colour.random())
-    await ctx.send(embed=embed)
+    await ctx.reply(embed=embed)
 
 @commands.is_owner()
 @bot.command()
 async def reload(ctx):
     config = load_config()
-    await ctx.send('Config reloaded.')
+    await ctx.reply('Config reloaded.')
 
 bot.run(tok['token'])
 
